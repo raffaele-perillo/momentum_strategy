@@ -1,0 +1,20 @@
+# Dati proprietari (CRSP/WRDS) - non versionare
+final.csv
+*.csv
+
+# Eccezione: se vuoi versionare gli output dei risultati, scommenta le righe sotto
+# !rebalancing_summary.csv
+# !sp500_benchmark.csv
+# !momentum_premium.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

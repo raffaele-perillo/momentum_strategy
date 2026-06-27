@@ -90,6 +90,3 @@ Place your own `final.csv` (with columns `PERMNO`, `MbrStartDt`, `MbrEndDt`, `Dl
 **Raffaele Perillo**
 Code for *"The UMD Factor: Evidence, Robustness, and Mutual Fund Implications"* — Theory of Finance course project, 2026.
 
-## License
-
-MIT (or your preferred license — replace this section).
